@@ -14,3 +14,6 @@ This is a notes page for Digital Forensics in CyberSecurity
     Which folder contains the software updates logs?
         /Library/Receipts
         
+# Which US Law criminalizes the act of knowingly using a misleading domain name iwth the intent to deceive a minor into viewing harmful material?
+    18 U.S.C 2252B 
+    
