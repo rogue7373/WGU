@@ -1,5 +1,14 @@
 This is a notes page for Digital Forensics in CyberSecurity
 
+# The chief information office of an accounting firm believes sensitive data is being exposed on the local network. Which tool should iT staff use to gather digital evidence about this security vulnerability? 
+    Sniffer 
+
+# A police detective investigating a threat traces the source to a house. THe couple at the house shows the detective the only computer the family owns, which is in their son's bedroom. The couple states that their son is presently in class at a local middle school. How should the detective legally gain access to the computer? 
+    Obtain consent to search from the parents
+
+# After a company's single-purpose, dedicated messaging server is hacked bya cybercriminal, a forensics expert is hired to investigate the crime and collect evidence.
+    Firewall logs
+
 # A computer involved in a crime is infected with malware. The computer is on and connected to the company's network. The forensic investigator arrives at the scene. 
     Which action should be hte investigator's first step? 
         Uplug the computer's Ethernet cable. 
