@@ -18,6 +18,9 @@ Offense. —Except as provided in subsection (c) of this section whoever—inten
 intentionally exceeds an authorization to access that facility; and thereby obtains, alters, or prevents authorized access to a wire or electronic communication while it is in electronic storage in such system shall be punished as provided in subsection (b) of this section.
 This law is used less frequently than the Computer Fraud and Abuse Act. However, it is written broadly enough to cover a number of acts. Primarily, the focus is on any facility, server, or device used to store electronic communications. It is sometimes the case that when employees leave a company, they seek to take information that they can use in competition with the company. This can include emails or other stored communications.
 
+# - Computer Fraud and Abuse Act
+The Computer Fraud and Abuse Act (CFAA) was enacted in 1986, as an amendment to the first federal computer fraud law, to address hacking. Over the years, it has been amended several times, most recently in 2008, to cover a broad range of conduct far beyond its original intent.
+
 # - The Electronic Communications Privacy Act of 1986
 The Electronic Communications Privacy Act of 1986 governs the privacy and disclosure, access, and interception of content and traffic data related to electronic communications.
 The Computer Security Act of 1987
