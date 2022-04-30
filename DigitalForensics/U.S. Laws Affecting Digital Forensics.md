@@ -10,7 +10,8 @@ The Privacy Protection Act (PPA) of 1980 protects journalists from being require
 
 # - The Communications Assistance to Law Enforcement Act of 1994
 The Communications Assistance to Law Enforcement Act of 1994 is a federal wiretap law for traditional wired telephony. It was expanded in 2004 to include wireless, voice over packets, and other forms of electronic communications, including signaling traffic and metadata.
-Unlawful Access to Stored Communications: 18 U.S.C. § 2701
+
+# - Unlawful Access to Stored Communications: 18 U.S.C. § 2701
 This act covers access to a facility through which electronic communication is provided or exceeding the access that was authorized. It is broadly written to apply to a range of offenses. Punishment can be up to 5 years in prison and fines for the first offense.
 The actual wording of the statute is as follows:
 Offense. —Except as provided in subsection (c) of this section whoever—intentionally accesses without authorization a facility through which an electronic communication service is provided; or
