@@ -1,0 +1,29 @@
+Engineer is stealing IP (employee has not been authorized)
+First thing we look for is proprietary information
+copy and paste the task into the assignment
+
+** Be careful on the "HOW" this is not an SOP ** 
+
+** Additional resources in the material for the chapter **
+
+
+A.  Create an investigative plan of action based on forensic best practices or standards that your team will implement by doing the following:
+
+1.  Discuss the strategy that your team will use to both maximize the collection of evidence and minimize the impact on the organization.
+    Team needs briefed, expectation/level setting, the why.
+
+2.  Describe the tools and techniques your team will use in evidence gathering, preparation, and analysis.
+    Address the maximize of collection, right into secure the scene and chain of custody. Example we see login to two machines, take them off the network to isolate and contain. Minimizes the impact to the organization, they org now knows they have the rest of the network to work with.  
+
+3.  Describe how your team will collect and preserve required evidence, using standardized and accepted procedures.
+    Not here to get super technical. We know that the incident is going to need a memory aquisition, may need a write blocker to capture volatile mem, then hard drive. FTK for a bit by bit copy, don't take a chance with the data. Electron evidence examiner (e3Tool). 
+
+4.  Describe how your team will examine the seized evidence to determine which items are related to the suspected violation of company policy.
+    This step is a bit redundant, this is to preserve the chain of custody. E3Tool again, *Key word search* for proprietary information. Based upon research of additional resources. Based off claim of policy violation. Scientific manner, maintain integrity of drive, make sure no evidence corruption, ties back to secure the scene. 
+
+5.  Discuss an approach that your team will use to draw conclusions based on the digital evidence that supports the claim of a policy violation.
+
+6.  Discuss how the case details and conclusions should be presented to senior management.
+    Who is senior management, target audience is non-technical, or less technical, needs to address who, what, where, when, why. Punctual and to the fact. Possibly need to run through HR to adhere to company policy, as this can have legal ramifications. 
+
+Acknowledgement of sources used, demonstrate professional communication. 
