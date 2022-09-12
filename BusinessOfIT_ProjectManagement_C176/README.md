@@ -663,7 +663,8 @@ A warranty is a written guarantee to the customer that a product or service will
 
 
 
-Acronyms
+# Acronyms
+
 ![image](https://user-images.githubusercontent.com/36058852/189573442-dfffaa17-14d8-4d82-a427-5ae9c1b4d47f.png)
 
 # Extra Resources / Notes
