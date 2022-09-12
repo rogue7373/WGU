@@ -199,22 +199,16 @@ Earned Value Management (EVM) is a form of expenditure tracking and management t
 Expenditure Reporting, a part of EVM, provides details on the actual cost, earned value, and invoices throughout the project. 
 
 ## Cost Control Equations:
-- Planned Value(PV) = % of Schedule completed x Budget
-- Budget At Completion(BAC) = This is just basically the budget. you see BAC, just think the project budget. 
-- Earneed Value(EV) = % of Acutal Complete x Budget
-	↪ The budgeted cost of work performed 
-- Cost Variance(CV) = AV - AC
-	↪ having a positive cost variance means you're under budget and having a negative cost means you're over budget
-- Schedule Variance(SV) = EV - PV
-- Cost Performance Index (CPI) = EV/AC
-	↪ Greater than 1 good; less than 1 bad
--Schdule Performance Index(SPI) = EV / PV
-	↪ Greater than 1 good; less than 1 bad
-- Estimate at Completion(EAC) = AC + ETC
-- Estimate to Complete (ETC): Forcast of how much more money it will take to complete the project.
-	↪ Calculation is out of scope for the exam; just learn the definition
-- Variance at Completion (VAC) = BAC - EAC 
-	↪ CEA/SEP is an acronym to help you remember this formulas and thier order 
+- Planned Value (PV) = % of Schedule completed x Budget
+- Budget At Completion (BAC) = This is just basically the budget. you see BAC, just think the project budget. 
+- Earneed Value (EV) = % of Acutal Complete x Budget NOTE: The budgeted cost of work performed 
+- Cost Variance (CV) = AV - AC NOTE: Having a positive cost variance means you're under budget and having a negative cost means you're over budget
+- Schedule Variance (SV) = EV - PV
+- Cost Performance Index (CPI) = EV/AC NOTE: Greater than 1 good; less than 1 bad
+- Schdule Performance Index (SPI) = EV / PV NOTE: Greater than 1 good; less than 1 bad
+- Estimate at Completion (EAC) = AC + ETC
+- Estimate to Complete (ETC): Forcast of how much more money it will take to complete the project. NOTE: Calculation is out of scope for the exam; just learn the definition
+- Variance at Completion (VAC) = BAC - EAC NOTE: CEA/SEP is an acronym to help you remember this formulas and thier order 
 
 # Organizational Structures:
 There is no set structure of an organization. The organizational structure will determine the amount of authority the project manager will have and if they will have to go through other people to manage the project, or if they have full authority over all resources. 
