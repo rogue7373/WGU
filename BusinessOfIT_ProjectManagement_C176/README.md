@@ -114,12 +114,23 @@ process that involves making formal change requests that are then approved by an
 
 Risk is also being constantly monitored and measured at this stage of the project, risk may happen, and it's important that there is a Risk Management Plan in place to help mitigate risks and provide procedures in case a risk does happen. Issues are things that happened that were not expected or accounted for; these are placed in the Issue Log.
 
-Closing Phase:
+# Closing Phase:
 What’s created in this phase:
+- Transition and Integration
+- Training 
+- Project Sign-Off 
+- Archive Documents 
+- Lessons Learned Doc
+- Release Resources 
+- Close Contracts 
 
 The final phase of the project management lifecycle is responsible for wrapping up all the loose ends of the project and ensuring that stakeholders/customers are happy with the results. Once the project is completed, the deliverables are given to the customer. When the deliverables are passed off, the Transition Plan is initiated and new owners are trained on how to properly use the product. Resources are released from the project and returned to the sponsor if not used. 
 
 Not all projects end in the same way – there are 4 different possible endings to a project:
+- Addition: The project is phases into every-day tasks
+- Starvation: The project is canceled and resources are removed 
+- Integration: The project is Integrated into another porject or split up into other active projects 
+- Extinction: The project is completed as planned 
 
 The project sign-off document is the primary focus of this phase and is prepared by the project manager and approved by the project sponsor. 
 
@@ -127,60 +138,85 @@ Archival of documents must meet any regulatory requirements as well as any guida
 
 At the very end of the project, after everything has been completed, it's important that a post-mortem analysis and review takes place in order to form the lessons learned document, which will be archived along with other project documents. This is intended to gather valuable information about the project and provide guidance to future projects.
 
-IT Project Management
+# IT Project Management
 All of these things apply to IT projects. Projects that are related to the IT department are:
+- Software Development 
+- Infrastructure Updates 
+- Datacenter Creation / Improvements 
+- Serve / System Deployment 
+- Automated Systems 
 
-
-
-Different Roles In the Project:
+# Different Roles In the Project:
 In order to have a project you have to have a team of people who will work together to complete the requirements and produce the deliverables. 
 
-Project Manager:
+## Project Manager:
 The project manager is responsible for keeping the project on task, organized, and within the defined scope. It is the duty of the project manager to oversee and maintain team communication, project risk, budget and allocated time to avoid scope creep. Additionally, the project manager manages project quality to ensure that deliverables meet quality standards. The project manager is responsible for the project and its deliverables, as well as any artifacts that are produced by the project.
 
-Project Sponsor:
+## Project Sponsor:
 The project sponsor, also known as the champion, provides and approves the funding for the project, as well as approving the project charter, scope baseline and high-level requirements. The sponsor is also a control authority, meaning that they also have some level of authority over the project alongside the project manager. 
 The project sponsor assists the project manager in dealing with roadblocks and is responsible for marketing the project and the deliverables, and ensures that the business case remains fulfilled throughout the project as well as justifying the case to the project stakeholders.
 
-Project Coordinator:
+## Project Coordinator:
 The project coordinator is the project manager’s right-hand man. They support the project manager in their administrative duties as well as being responsible for their own set of tasks. They ensure there is cross-functional coordination within the project so the team is properly aligned to meet a common goal. They are responsible for project documentation, allocating time / resources to the project, and checking for quality within the project.
 
-Project Scheduler:
+## Project Scheduler:
 The project scheduler actually puts together the project schedule, updates it with any changes that arise and communicates these timeline changes to the team. They gather task status from project resources and provides reporting on schedule performance based on amount of time used vs. used time.
 
-Stakeholder:
+## Stakeholder:
 The stakeholder is an individual who has vested interest in the project and its deliverables. They provide inputs and requirements, provide expertise, and steer the project in the right direction. Stakeholders do not have any administrative or authority power, they are simply the people that the project is aimed to please. Stakeholders have something to gain or lose by the project.
 	↪ A steering committee may also be in place to help guide the project in the right direction and 
 	provide expertise, however they are not a part of every project.
 
-Project Team:
+## Project Team:
 The project team is the driving force behind the project and are conducting most of the work on the project and contributing their expertise. They also provide time and cost estimates and task dependencies so scope and schedule can be properly estimated.
 	↪ Some work of the project may also be outsourced to a third party – they would provide the
 	the same value to the project as a team member, but are a contractor rather than an employee.
 
-Project Management Office:
+## Project Management Office:
 The PMO is an internal or external group that helps to set the guiding principles for projects. They create the performance indicators for work within the project so that quality can be measured. They set the deliverables for each project and provides tools, governance, templates, and standardized documents. They outline what the consequences are for inaction within the project and helps to properly coordinate resources to the project.
 
 
-Project Cost Basics:
+# Project Cost Basics:
 Cost estimation begins in the Planning phase of the project. Estimating the project cost is important to start forming the project budget. The project budget uses the cost baselines to form a number that the project manager believes the project will total based on input from resources and research.
 
 Having the estimated cost of the project allows for comparing the planned expense vs. actual expense.
 
 There are four ways of estimating the cost:
+- Bottom Up-Esitmating: Every single component estimated and the totalled. This is the most accurate but most time consuming method 
+- Three-Point Estimates: Taking the total average between optimistic, pessimistic, and likely costs
+- 	Knows as PERT or SME 
+- Parametrtic Estimating: Known relationship between variables (Unit Cost x Number of Units)
+- Analogous Estimating / Top-Down Estimating: Cost estimated from past similar projects
 
 A contingency reserve is in place to cover the cost of identified risks. This is included within the cost baselines of the budget and are managed by the project manager.
 A management reserve is to cover unidentified risks and, unlike contingency reserves, are not covered under the baseline. This requires approval from the project sponsor to be used in the project.
 
 Earned Value Management (EVM) is a form of expenditure tracking and management to gauge project performance. Performance is tracked and estimated based on planned value, actual cost, and earned value. The burn rate is the rate at which the budget of a project is spent.
+- Planned Value: The value we should have earned from the project
+- Acutal Cost: Amount of money spent to date on the project
+- Earned Value: Value of work actually completed to date on the project
 
 Expenditure Reporting, a part of EVM, provides details on the actual cost, earned value, and invoices throughout the project. 
 
-Cost Control Equations:
+## Cost Control Equations:
+- Planned Value(PV) = % of Schedule completed x Budget
+- Budget At Completion(BAC) = This is just basically the budget. you see BAC, just think the project budget. 
+- Earneed Value(EV) = % of Acutal Complete x Budget
+	↪ The budgeted cost of work performed 
+- Cost Variance(CV) = AV - AC
+	↪ having a positive cost variance means you're under budget and having a negative cost means you're over budget
+- Schedule Variance(SV) = EV - PV
+- Cost Performance Index (CPI) = EV/AC
+	↪ Greater than 1 good; less than 1 bad
+-Schdule Performance Index(SPI) = EV / PV
+	↪ Greater than 1 good; less than 1 bad
+- Estimate at Completion(EAC) = AC + ETC
+- Estimate to Complete (ETC): Forcast of how much more money it will take to complete the project.
+	↪ Calculation is out of scope for the exam; just learn the definition
+- Variance at Completion (VAC) = BAC - EAC 
+	↪ CEA/SEP is an acronym to help you remember this formulas and thier order 
 
-
-
-Organizational Structures:
+# Organizational Structures:
 There is no set structure of an organization. The organizational structure will determine the amount of authority the project manager will have and if they will have to go through other people to manage the project, or if they have full authority over all resources. 
 
 Functional Structure:
