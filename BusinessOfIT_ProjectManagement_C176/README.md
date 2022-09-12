@@ -24,7 +24,7 @@ The purpose of a project is required for initiation of a project, these include:
 - Legal Requirement 
 
 Projects require various resources, these can include:
-- People 	- Units 
+- People
 - Units 
 - Organzization
 - Money 
@@ -33,17 +33,20 @@ Projects require various resources, these can include:
 - Materials 
 
 Project management plans are used to manage and maintain a project. Plans are iterative in nature and progressively elaborated as new information is available. Each iteration of the plans will be more detailed and clear to reach project goals.
- 
+
 Changing one value in the Project Management Triangle will influence the other two values. This change can be minor to very drastic depending on what changed.
+- Scope 
+- Cost 
+- Time 
 
 For example, if the scope of the project is increased, meaning more requirements are added to the project, then the cost and time of the project will increase based on the change.
 
-
 These 3 values are considered project constraints, and there are typically strict conditions to them. 
+- Time is the amount of time available to complete the project 
+- Cost is the budgeted amount available for the project 
+- The scope is what must be done to produce the desired project result 
 
-
-
-Project Management Lifecycle:
+# Project Management Lifecycle:
 Before we address the phases of project management, there are a couple of general factors that apply to all phases.
 
 It is important that control is maintained over the project scope and its objectives and activities of the project should align with them. Emphasis should also be placed on the change control process for any changes to the project, including for administrative employees of the company. 
@@ -53,25 +56,56 @@ The project manager is responsible for ensuring that the project addresses stake
 It’s important that all phases of the project include careful planning, realistic and measurable outputs, and transfer / handoff phase.
 
 The Project Management Plan should include:
+- Scope baseline 
+- Project Schedule 
+- Human Resource Plan 
+- Risk Management Plan 
+- Communication Plan 
+- Procurement Plan 
+- Change Management Plan 
+- Project Budget
+- Quality Management Plan 
 
- Initiation Phase:
+## Initiation Phase:
 What’s created in this phase:
+- Project Charter 
+- Business Case 
+- High-Level Scope 
+- High-Level Risk 
+- Core Team
 
 The initiation phase of the project is all about understanding what the project is about and where the request is coming from and then defining the basis to build the project management plan on. It’s also ensuring that there is a business case – aka a need – for the project in the first place.
 
-Planning Phase:
+## Planning Phase:
 What’s created in this phase:
+- Schedule 
+- Work Breakdown Structure 
+- Resources Allocation 
+- Detailed Risks 
+- Core Team 
+- Budget 
+- Communication Plan 
+- Project Requirements 
+- Procurement Plan 
 
-
-Execution Phase:
+# Execution Phase:
 This is the phase where work is actually being done and the deliverables of the project are created. Objectives and requirements of the project are met during this phase.
- The Execution Phase starts with the Kick-off Meeting this is a place for introductions between team members takes place and the Project Overview is given. Expectations for the project are laid out and questions can be addressed in a public forum. Stakeholders do not typically attend these meetings, as they are usually for the project team and project manager.
+
+The Execution Phase starts with the Kick-off Meeting this is a place for introductions between team members takes place and the Project Overview is given. Expectations for the project are laid out and questions can be addressed in a public forum. Stakeholders do not typically attend these meetings, as they are usually for the project team and project manager.
 	↪ Kick-off meetings can occur at the end of other phases but are not required 
 
 This is also the phase where meeting agendas, meeting minutes, action items, status reports, and dashboards are created. These documents are used throughout the project and are often items distributed out to individuals on the Communication Plan.
 
-Monitoring and Controlling Phase:
+# Monitoring and Controlling Phase:
 What’s created in this phase:
+- Risk Log 
+- Issue Log 
+- Performance Measuring 
+- Governance 
+- Budget 
+- Quality Assurance 
+- Performance Reporting 
+- Change Control 
 
 Quality and Approval Gates are milestones in the project that, once reached, stakeholders must come out and approve the work presented and see if it is to quality standards. If it is not, the project team must go back and rework the item until it is up to standard.
 
