@@ -6,9 +6,13 @@ PK0-004
 
 1.0 Project Basics - 36%
 
-Characteristics of a Project:
+# Characteristics of a Project:
+- Temporary - Has a defined beginning and end 
+- Has a specific purpose to create a result 
+- Unique - no two projects are the same 
+- May be apart of a program or portfolio
 
- Operations and Projects are different. An operation, unlike a project, is an ongoing process and repetitive effort. Operations encompass day to day tasks.  Every project has a result. Results can be a product, enhancement, service, improvement of a service, or new asset.
+Operations and Projects are different. An operation, unlike a project, is an ongoing process and repetitive effort. Operations encompass day to day tasks.  Every project has a result. Results can be a product, enhancement, service, improvement of a service, or new asset.
 
 The purpose of a project is required for initiation of a project, these include:
 
