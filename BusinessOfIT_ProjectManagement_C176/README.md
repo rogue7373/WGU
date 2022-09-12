@@ -24,6 +24,8 @@ The purpose of a project is required for initiation of a project, these include:
 - Legal Requirement 
 
 Projects require various resources, these can include:
+| Various Resources |
+| --- | --- |
 | People | Organizations | Time | Materials |
 | Units | Money | Knowledge |
 
