@@ -24,8 +24,8 @@ The purpose of a project is required for initiation of a project, these include:
 - Legal Requirement 
 
 Projects require various resources, these can include:
-|| People | Organizations | Time | Materials ||
-|| Units | Money | Knowledge || 
+| People | Organizations | Time | Materials |
+| Units | Money | Knowledge |
 
 Project management plans are used to manage and maintain a project. Plans are iterative in nature and progressively elaborated as new information is available. Each iteration of the plans will be more detailed and clear to reach project goals.
  
