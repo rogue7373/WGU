@@ -12,12 +12,20 @@ PK0-004
 - Unique - no two projects are the same 
 - May be apart of a program or portfolio
 
-Operations and Projects are different. An operation, unlike a project, is an ongoing process and repetitive effort. Operations encompass day to day tasks.  Every project has a result. Results can be a product, enhancement, service, improvement of a service, or new asset.
+Operations and Projects are different. An operation, unlike a project, is an ongoing process and repetitive effort. Operations encompass day to day tasks.
+
+Every project has a result. Results can be a product, enhancement, service, improvement of a service, or new asset.
 
 The purpose of a project is required for initiation of a project, these include:
-
+- Market Demand / Need
+- Business Need 
+- Technical Breakthrough 
+- Request by Customer 
+- Legal Requirement 
 
 Projects require various resources, these can include:
+|| People | Organizations | Time | Materials ||
+|| Units | Money | Knowledge || 
 
 Project management plans are used to manage and maintain a project. Plans are iterative in nature and progressively elaborated as new information is available. Each iteration of the plans will be more detailed and clear to reach project goals.
  
