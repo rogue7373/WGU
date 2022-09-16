@@ -12,15 +12,15 @@
 - BTS Base Transceiver Station
     Communicates directly with the phone within its coverage aread
 - BCS Base Controller Station 
-    Connects to the core network
-    Multiple Towers will connect to a BCS 
-    The core network connects all the BCS's together and to the PTSN and Internet
-- Macrocells 
-    Largest of cells used for rural areas 
+   - Connects to the core network
+   - Multiple Towers will connect to a BCS 
+   - The core network connects all the BCS's together and to the PTSN and Internet
+- Macrocells
+   - Largest of cells used for rural areas 
 - Microcells 
-    used for smaller coverage areas, urban areas
+   -   used for smaller coverage areas, urban areas
 - Picocells 
-    small hotspots that offer wi-fi connectivity via a mobile carrier, dense urban areas
+   - small hotspots that offer wi-fi connectivity via a mobile carrier, dense urban areas
 
 ### Lession 2 Identifies smartphone and tablet operating system security issues and architecture 
 ### Lession 3 Explore specific tops related to sandboxing, application provenance, emerging trends  
