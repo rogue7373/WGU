@@ -67,7 +67,64 @@
 - Mobile OS's are inherently secure by design; the security issues that arise come from user activity such as rooting Android and jailbreaking iOS. 
 - In addition to OS and Application vulnerabilities, the logon and authentication of the end user is at risk to compromise. 
 - Mobile users are more susceptible to phishing attacks to due URL trunking 
+- While mobile devices are thought to be inherently secure, penetration percentage rates have reached the high 90's and above in some countries. 
 
+## Exploits, Tools, and Techniques
+- Categories of Attack Vulnerability 
+    - Surveillance vulnerabilities 
+        - Audio Attack
+            - This involves switching on the microphone to listen in on conversations 
+        - Camera Attack
+            - This involves hijacking the camera to monito the user or the user's surroundings 
+        - Location Snooping
+            - This involves the activation of Internet Protocol(IP)/ browser tracking to monitor location. This is a common malware trick to gain advertising revenue
+        - Call Logs
+            - This invloves recording recent calls and messaages, which can be read and/or stolen 
+        - Global Positioning System (GPS) tracking
+            - This involves the activation of another location and tracking port to monitor location. This can be very accurate
+    - Financial vulnerabilities 
+        - Stealing transaction codes 
+            - This technique is commonly used for man-in-middle attacks against online banking sites
+        - Stealing account numbers
+            - This is possible when the phone is used as a data repository or a mobile wallet with an unsecure data store
+        - Making expensive calls
+            - This involves bypassing security measures to make calls, which are then charged to the user's account  
+        - Sending premium-rate SMS messages
+            - This involves using a mobile handset ot pay for services and products. This is a common way for cybercriminals to monetize their attacks
+        - Extortion via ransomware
+            - This is a method of extortion where malware is placed on a phone that prevents the phone from being used until a ransom is received. This is another popular method for turning nefarious cyberskills into cash. 
+    - Botnet Activity 
+        - Participating in distributed denial of service (DDoS) attacks 
+            - This involves hijacking the phone to participate in mass attacks on a third-party network for example, by sending out Domain Name System (DNS) or Network Time Protocol(NTP) requests. 
+        - Sending premium-rate SMS messages
+            - Again this is a way to make money at the owner's expense 
+    - Data Theft 
+        - Communications 
+            - Emails and SMS messages are all open to theft
+        - International Mobile Station Equipment Identity (IMEI) number theft 
+            - The IMEI number uniquely identifies the mobile phone and can be used for a number of purposes, such as blocking the phone on an operator's network
+        - Banking Data
+            - Unecrypted or poorly protected banking data can be captured and used to fraudulently acces a user's online account 
+        - Credit card data
+            - Credit Card details can be extracted from the phone, especially if it has no encryption or is using unsecure NFC
+        - Contacts and phone book
+            - This is another popluar target for cybercriminals, which furthers their reach for potential victimes
+        - Photographs and video
+            - The attacker can invade the user's privacy by stealing their pictures and videos 
+        - Call logs 
+            - Tracking call activity is another way a cyberattacker can invade a user's privacy
+    - Impersonation
+        - Sending SMS messages 
+            - This involves sending false messages to collect information from contacts or to engage in illegal or illicit activits (including harrassment of the user)
+        - Posting to social media
+            - This is typically done to harass or embarrass the user 
+        - SMS redirection
+            - This is used for eavesdropping and potential extortion
+    - Potentially Unwanted Applications (PAUs)
+        - Developers create a PAU in an attempt to montize their applications throug connections to aggressive third-party advertising networks. 
+## Google Android Security Challenges
+- If you believe the research conducted by antivirus companies, security threats on Android devices were growing at an exponential rate. 
+- Smartphones were more susceptible to this type of eavesdropping due to a lack of enforced Secure Sockets Layer (SSL)/Transport Security Layer (TLS) controls combined with a high-level of personal usage data. 
 
 ### Lession 3 Explore specific tops related to sandboxing, application provenance, emerging trends  
 ### Lession 4 Mobile Malware delivery techniques, major categories of mobile applications exploits, security implications for excessive application permissions requests, and the role the MDM plays in protecting compainies
