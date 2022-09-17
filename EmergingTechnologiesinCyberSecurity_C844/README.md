@@ -151,12 +151,12 @@ Android is an open source form of a widely used version of Linux. Because of thi
 ## Android Application Architecture 
 - Acitivity 
     - This is a user interface whereby a user canenter data or interact with the application in some other way
-    - Service 
-        - A service performs operations in the backgroudn -- for example, playing music
-    - Content providers 
-        - These provide information to third-party applications. A content provider can be seen as a n inerface the processes data in one process and feeds it to another independent process 
-    - Broadcast receivers 
-        - These respond to systemwide notifications such as "battery low" or "microphone unplugged". Thos OS normally initiates these notifications or broadcasts, but trusted applications can slo issue broadcasts
+- Service 
+    - A service performs operations in the backgroudn -- for example, playing music
+- Content providers 
+    - These provide information to third-party applications. A content provider can be seen as a n inerface the processes data in one process and feeds it to another independent process 
+- Broadcast receivers 
+    - These respond to systemwide notifications such as "battery low" or "microphone unplugged". Thos OS normally initiates these notifications or broadcasts, but trusted applications can slo issue broadcasts
 ## Apple iOS Security Challenges 
 - System Architecture 
     - This involves the OS platform and hardware used to protect the iOS device. It also relates to sandbox testing and application isolation. It includes a secure boot-chain, system software authorization, a secure enclave, and tough ID
@@ -181,7 +181,18 @@ Android is an open source form of a widely used version of Linux. Because of thi
     - This layer contains the low-level features that are the foundations of all the higher layers and thier features 
 
 
-### Lession 3 Explore specific tops related to sandboxing, application provenance, emerging trends  
+### Lession 3 Explore specific tops related to sandboxing, application provenance, emerging trends
+## The Android Security Model
+- Android is build on Linux
+- Android applications use process sandboxing for security
+- Dalvik virtual machine 
+- Does not rely on Java VM to enforce security, instead looks to the kernel
+- Linux Kernal makes the foundation of Android, including user permissions, multiuser environments 
+## Apple iOS Security
+- Walled Garden approach 
+- Restricted access limited to own app store 
+- Allows for trusted authenticity 
+- Developers must register with Apple 
 ### Lession 4 Mobile Malware delivery techniques, major categories of mobile applications exploits, security implications for excessive application permissions requests, and the role the MDM plays in protecting compainies
 ## Competency 4042.5.2 Wireless Technologies
 ## Competency 4042.5.3 Mapping and Monitoring 
