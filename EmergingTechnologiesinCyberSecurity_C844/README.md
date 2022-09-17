@@ -42,7 +42,7 @@
     - Responsible for SIM (Subscriber Idntity Module) card 
 - CDMA 2G
     - Repsonsible for SMS (Short Message Service)
-- GPRS / EDGE 
+- GPRS / EDGE x
     - General Packet Radio Service 
     - Packet-switching technology
     - Brought websites to mobile devices
@@ -54,9 +54,21 @@
 - RIM (Reseach in Motion)
 - BES (Blackberry Enterprise Server) 
     - Brought about Push Email with MicroSoft Exchange allowing mobile users to send/receive email on the go as long as they had cellular coverage
-    
 
 ### Lession 2 Identifies smartphone and tablet operating system security issues and architecture 
+- Focus on potential vulnerabilities of different mobile operating systems and the tools and techniques in use to target exploits. 
+- Malware exploits for Android OS are exceedingly rare due to the islotion of application runtimes in their own virtual sandbox.
+    - Even if malware was downloaded the application would run in comoplete isolation from other apps or system resources
+- Today most security issues are user based 
+- It is believed that most important vulnerabilities are in:
+    - Data Leakage
+    - Outdated devices 
+    - Social Engineering
+- Mobile OS's are inherently secure by design; the security issues that arise come from user activity such as rooting Android and jailbreaking iOS. 
+- In addition to OS and Application vulnerabilities, the logon and authentication of the end user is at risk to compromise. 
+- Mobile users are more susceptible to phishing attacks to due URL trunking 
+
+
 ### Lession 3 Explore specific tops related to sandboxing, application provenance, emerging trends  
 ### Lession 4 Mobile Malware delivery techniques, major categories of mobile applications exploits, security implications for excessive application permissions requests, and the role the MDM plays in protecting compainies
 ## Competency 4042.5.2 Wireless Technologies
