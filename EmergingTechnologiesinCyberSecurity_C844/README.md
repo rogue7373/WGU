@@ -194,6 +194,53 @@ Android is an open source form of a widely used version of Linux. Because of thi
 - Allows for trusted authenticity 
 - Developers must register with Apple 
 ### Lession 4 Mobile Malware delivery techniques, major categories of mobile applications exploits, security implications for excessive application permissions requests, and the role the MDM plays in protecting compainies
+### Malware on Android Devices 
+- Focused efforts on the market leader: Android
+- Apple barely registers on the scale 
+- Focus on Android is due to the huge market share, open source, not a walled garden
+- Software fragmentation 
+### Criminal and Developer Collaboration
+- Remote Acccess Tools (RATs) 
+    - These offer a means of backdoor access to infected victim devices and are often used for intelligence collection
+- Bank Trojans
+    - This type of malware aims to steal the user's logon credentials for predetermined mobile apps. 
+- Ransomware 
+    - This is used to lock out a user from their device often by encrypting the data, making it useless. The attackers will tehn demand a "ransom" payment. Access will only be granted to the device once a ransom is paid. 
+- Cryptomining malware
+    - This is specifically designed to allow attackers to covertly mine cryptocurrency on the victime's mobile device, allowing them to generate cryptocurrency. 
+- Advertising Click Fraud
+    - This is a hugely popular type of malware that is desinged to let an attacker gain access to a device in order to generate income through click fraud. 
+- Stalkerware 
+    - There are two types; trackers nad fully fledged stalkers. The former generally focus on stealing the victims' GPS coordinates and perhaps intercepting text messages. 
+### Madware 
+Madware is a form of very agressive adware that is prevalent on mobile devices. Due ot the way the "free application" business model works on the internet, developers consider madware to be no only harmless but a legitimate aspect of application behavior. Although some free applications that use advertisements as a revenue source are legitimate and benign, others run background processes that access GPS information, scan address books, and send out stolen dat via HTTP to third-party API'. Some also track and share location details, browsing histories, and contact lists, often with the phones owner's unknowing permission. 
+### Excessive Application Permissions 
+- Retrieve list of running apps 
+    - For a flashlight application, this is a dubious requirement
+- Modify or delete contents of your USB Storage
+    - Why would a flashlight application want to delte files on a USB device? Other applications, such as a camera interface or music system software, may have a legitimate reason to delete uploaded or downloaded files, but flashlight... no way! 
+- Test access to protected storage 
+    - This is dubious. Why would a flashlight application need to read or write to protected memory outside its container? 
+- Take pictures and videos
+    - This is a rather frightening ability for a flashlight if it's done without user notification. 
+- View Wi-Fi Connections 
+    - This is anotehr unnecessary permission for a flashlight 
+- Read phone status and identity
+    - A request to read the phone status is a yellow flag, but this one does have a genuine use. Develpers need to retrieve this information for analytics, to identify the phone model, and to identify the OS on the phone 
+- Control Flashlight 
+    - This permission seems legit
+- Change System display settings
+    - Thsi seems acceptable, because the flashlight application needs to change screen display parameters
+- Prevent device from sleeping
+    - This may be a necessary function for a flashlight to prevent it from shutting off while in use. 
+- View network connections
+    - This is yet another unnecessary request for permission
+- Gain full network access
+    - ya fucking right!! 
+- Approvimate location (network based)
+    - This is an obvious requirement for adware 
+- Precise location(GPS)
+    - This is totally unnecessary 
 ## Competency 4042.5.2 Wireless Technologies
 ## Competency 4042.5.3 Mapping and Monitoring 
 
