@@ -241,6 +241,8 @@ Madware is a form of very agressive adware that is prevalent on mobile devices. 
     - This is an obvious requirement for adware 
 - Precise location(GPS)
     - This is totally unnecessary 
+### Malware on Apple iOS Devices 
+
 ## Competency 4042.5.2 Wireless Technologies
 ## Competency 4042.5.3 Mapping and Monitoring 
 
@@ -251,3 +253,11 @@ Madware is a form of very agressive adware that is prevalent on mobile devices. 
 ## Summarize the potential implications for each anomaly
 ## Recommend Solutions 
 ## Citations 
+
+# Paper Task 2
+## Describe two WLAN vulnerabilities that present risks for Alliah, based on the details in the scenario
+## Describe two mobile vulnerabilities that present risks for Alliah, based on the details in the scenario
+## Summarize the steps for mitigating each identified WLAN and mobile vulnerability, including the specific tools or documentaiton that will be needed for mitigation. 
+## Recommend preventive measures to maintain the security posture of WLAN and mobile environments in a small business, such as Alliah. Reference federal, state, or industry regulations that justify these measures.
+## Recommend a solution for the company's BYOD approach, including research to justify your recommendation.
+## Resources 
