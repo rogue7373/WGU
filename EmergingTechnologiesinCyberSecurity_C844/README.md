@@ -124,7 +124,62 @@
         - Developers create a PAU in an attempt to montize their applications throug connections to aggressive third-party advertising networks. 
 ## Google Android Security Challenges
 - If you believe the research conducted by antivirus companies, security threats on Android devices were growing at an exponential rate. 
-- Smartphones were more susceptible to this type of eavesdropping due to a lack of enforced Secure Sockets Layer (SSL)/Transport Security Layer (TLS) controls combined with a high-level of personal usage data. 
+- Smartphones were more susceptible to this type of eavesdropping due to a lack of enforced Secure Sockets Layer (SSL)/Transport Layer Security (TLS) controls combined with a high-level of personal usage data. 
+## Android Exploitation Tools 
+Android is an open source form of a widely used version of Linux. Because of this, there are many tools available that developers and programmers can use to decompile, analyze, and study Android OS code and applications. The people who use these tools may be good guys who seek to identify malicious or otherwise problematic code. Or, these same tools may be used by criminals to exploit known vulnerabilities and create their own malware. 
+- AndroRAT 
+    - This tool can be bound to other applications, can read messages and contacts, steal data, view video, reecord calls, and more. This full framework of open source tools is freely available and is constantly updated.
+- Android SDK 
+    - The Android Software Development Kit (SDK) is the official Android development tool. It enables developers to compile and decompile applications for Android. This is an essential development or research toolkit.
+- DroidBox 
+    - Another application for analyzing Android applications, DroidBox can check for password hashes, check files for read/write data, and record incoming and outgoing communications (SMS messages and phone calls), among other things. 
+- Android Framework for Exploitation 
+    - This tool can scan the network, looking for security issues and vulnerabilities on Android Devices.
+- RiskInDroid
+    - This is handy tool for calculating the inherent risk of Android apps based on their required/requested permissions. 
+## Android Security Architecture 
+- Security at the OS Linux kernel 
+    - This ensures that native code is constrained by the application sandbox
+- Mandatory sandboxing of applications 
+    - This prevents applications from interacting with each other and liits access to the operating system
+- Secure interprocess communication
+    - This provides standard and secure mechanisms for accessing file systems and other resources
+- Digital signing of applications 
+    - This identifies application authors and deters or prevents malware
+- User-granted application permissions 
+    - These require applications to obtain express permission from users before accessing resources such as camera funtions, contact lists, or GPS
+## Android Application Architecture 
+- Acitivity 
+    - This is a user interface whereby a user canenter data or interact with the application in some other way
+    - Service 
+        - A service performs operations in the backgroudn -- for example, playing music
+    - Content providers 
+        - These provide information to third-party applications. A content provider can be seen as a n inerface the processes data in one process and feeds it to another independent process 
+    - Broadcast receivers 
+        - These respond to systemwide notifications such as "battery low" or "microphone unplugged". Thos OS normally initiates these notifications or broadcasts, but trusted applications can slo issue broadcasts
+## Apple iOS Security Challenges 
+- System Architecture 
+    - This involves the OS platform and hardware used to protect the iOS device. It also relates to sandbox testing and application isolation. It includes a secure boot-chain, system software authorization, a secure enclave, and tough ID
+- Encryption and data protection
+    - These are the techniques used to safeguard against theft. They include file data protection, passcodes, keychain data protection, and more 
+- Network Security 
+    - These are the techniques used to protect data when it is transmitted across the open internet. They include SSL and TLS 
+- Applicaiton Security 
+    - This includes digital authentication and verification, runtime process security, data protection within applications, sandboxes, and service isolation
+- Internet Services 
+    - These include iMessage, FaceTime, Siri, and iCloud
+- Device Access 
+    - These are the basic security tools suchs as passwords, PINs, remote wipe, mobile device management (MDM), and even remote access tools
+## Apple iOS Architecture 
+- Cocoa Touch Layer
+    - This higher level layer provides a level of abstraction from lower levels. it is where application development occurs. This make it much easier to write code, as it reduces the amount and complexity of the code.
+- Media Layer
+    - This layer contains the graphics, audio, and video technologeis used to implement multimedia features in applications. 
+- Core Service Layer
+    - This layer underpins the system services that applications require. It also supports technolgies such as iCloud, social media, and networking
+- Core OS Layer
+    - This layer contains the low-level features that are the foundations of all the higher layers and thier features 
+
 
 ### Lession 3 Explore specific tops related to sandboxing, application provenance, emerging trends  
 ### Lession 4 Mobile Malware delivery techniques, major categories of mobile applications exploits, security implications for excessive application permissions requests, and the role the MDM plays in protecting compainies
