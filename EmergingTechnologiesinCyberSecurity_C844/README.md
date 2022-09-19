@@ -256,8 +256,31 @@ Madware is a form of very agressive adware that is prevalent on mobile devices. 
 
 # Paper Task 2
 ## Describe two WLAN vulnerabilities that present risks for Alliah, based on the details in the scenario
+
+1. Evil Twin - 
+2. Denial Of Service - 
+
 ## Describe two mobile vulnerabilities that present risks for Alliah, based on the details in the scenario
+
+1. Malicious Applications (Malware) 
+2. Browser Exploits  
+
 ## Summarize the steps for mitigating each identified WLAN and mobile vulnerability, including the specific tools or documentaiton that will be needed for mitigation. 
+
+To Summarize.... 
+
+1. Evil Twin mitigation
+2. Denial of Service mitigation 
+3. Malicious Applications (Malware) 
+4. Browser Exploits 
+
+
 ## Recommend preventive measures to maintain the security posture of WLAN and mobile environments in a small business, such as Alliah. Reference federal, state, or industry regulations that justify these measures.
+
+
 ## Recommend a solution for the company's BYOD approach, including research to justify your recommendation.
+
+
 ## Resources 
+
+Citations 
