@@ -257,7 +257,8 @@ Madware is a form of very agressive adware that is prevalent on mobile devices. 
 # Paper Task 2
 ## Describe two WLAN vulnerabilities that present risks for Alliah, based on the details in the scenario
 
-1. Evil Twin - 
+1. Evil Twin - "An evil twin attack is a spoofing cyberattack that tricks users into connecting to a fake Wi-Fi acess point that mimics a legitimate network". (Panda Security, Many Evil Twin attacks involve a captive portal, designed to mimic the captive portal login page of the original WLAN. This allows malicious attackers to harvest credentials. When an Evil Twin attack is used on a corporate WLAN the attacker is able to harvest domain credentials, they are also able to monitor traffic that is being passed through the Evil Twin. 
+
 2. Denial Of Service - 
 
 ## Describe two mobile vulnerabilities that present risks for Alliah, based on the details in the scenario
@@ -284,3 +285,4 @@ To Summarize....
 ## Resources 
 
 Citations 
+1. Panda Security - Evil Twin - https://www.pandasecurity.com/en/mediacenter/security/what-is-an-evil-twin-attack/
