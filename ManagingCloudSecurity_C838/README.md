@@ -68,6 +68,30 @@ Ten to fifteen years ago the idea of handing off your data to a third party was 
 - Simplicity: Proper cloud implementations allow a user to seamslessly use the service without frequently interacting with the cloud service provider. 
 - Scalability: In general, increasing or reducing services can be more easily, quickly, and cost-effectively accomplished than in a non-cloud environment. 
 
+## Cloud Computing Service Models
+Cloud service are often offered in terms of three general models, based on what the vendor offers and the customer needs and the reposibilities of each according to the service contract. 
+- SaaS: Software as a Service 
+- PaaS: Platform as a Service
+- IaaS: Infrastructure as a Service
+
+## Infrastructure as a Service (IaaS)
+The most basic of cloud service offerings, IaaS allows the customer to install all software, including operating systems, on hardware housed and connected by the cloud vendor. 
+
+## Platform as a Service (PaaS)
+PaaS contains everythnig included in IaaS with the addition of OSs. The cloud vendor ususally offers a selection of Oss so that the customer can use any or all of the available choices. 
+
+## Software as a Service (SaaS)
+SaaS includes everything in IaaS and PaaS with the addition of software programs. The cloud vendor becomes responsible for administering, patching, and updating this software as well. The cloud customer is basically only involved in uploading and processing data on a full production environment hosted by the provider. 
+
+## Cloud Deployment Models
+In addition to viewing cloud offerings in terms of what levels of service are involved, another perspecitive has to do with ownership. You'll be expected to know the facets of both sets of models. 
+
+## Public
+The public cloud is what we typically think of when discussing cloud providers. The resources are owned and operated by a vendor as sold, leased, or rented to anyone. 
+
+## Private
+A private cloud is typified by resources dedicated to a single customer, no other customers will share the underlying resources. Therefore, private clouds are not multitenant environments. 
+
 ## Lesson 2 - Design requirements, including business requirements analysis, boundaries of cloud models, and design principles for protecting sensitive data.
 # 4042.4.2 Secure Cloud Infrastucture
 Validate security controls, disaster recovery plans, and continuity management plans to ensure a secure infrastructure for the protection and restoral of information resources. 
