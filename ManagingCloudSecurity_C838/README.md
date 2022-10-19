@@ -44,6 +44,14 @@ A true evaluation and understanding of the business processes, assets, and requi
 - Collecting marketing data
 - Collecting regulatory mandates
 
+After sufficient data has been colelcted, a detailed analysis is necessary. This is the point where a business impact analysis (BIA) takes place. 
+
+## Quantifying Benefits and Opportunity Cost
+Once you have a clear picture of what your organization does in terms of the lines of business and processes, you can get a better undersstanding of what benefits the organization might derive from cloud migration as well as the costs associated with the move. 
+
+#### Reduction in Capital Expenditure
+
+If your organziation buys a device for use in its internal environment, teh capacity of that device will either be fully utilized or (more likely) not. If the device is used at its fullest capacity, the it's quite likely that the function for which it is needed may experience inefficiencies at some point. 
 ## Lesson 2 - Design requirements, including business requirements analysis, boundaries of cloud models, and design principles for protecting sensitive data.
 # 4042.4.2 Secure Cloud Infrastucture
 Validate security controls, disaster recovery plans, and continuity management plans to ensure a secure infrastructure for the protection and restoral of information resources. 
