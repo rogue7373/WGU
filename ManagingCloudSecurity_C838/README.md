@@ -50,8 +50,24 @@ After sufficient data has been colelcted, a detailed analysis is necessary. This
 Once you have a clear picture of what your organization does in terms of the lines of business and processes, you can get a better undersstanding of what benefits the organization might derive from cloud migration as well as the costs associated with the move. 
 
 #### Reduction in Capital Expenditure
-
 If your organziation buys a device for use in its internal environment, teh capacity of that device will either be fully utilized or (more likely) not. If the device is used at its fullest capacity, the it's quite likely that the function for which it is needed may experience inefficiencies at some point. 
+
+#### Reduction in Personnel Costs
+For most organizations (other than those that deliver IT services), managing data is not a core competency, much less a proitable line of business. Data management is also a specialized skill, and people with IT experience and training are relatively expensive compared to other departments. The personnel required to fulfill the needs of an internal IT environment represent a significant and disproportionally large investment.
+
+####
+Reduction in Operational Costs
+Maintaining and administering an internal environment takes agreat deal of effort and expense. When an organization moves to the cloud, the cost becomes part of the price of the service, as calcualted by the cloud provider. Therefore, costs are lumped in with the flat-rate cost of the contract and will not increase in response to enhanced operations. 
+
+## Cloud Evolution, Vernacular, and Models
+The arrival of the cloud and its related technology has provided a lot of advantages. To incorporate the cloud and these advantages, it is necessary to understand new terminology and how it relates to the terminology of traditional models.
+
+### New Technology, New Options
+Ten to fifteen years ago the idea of handing off your data to a third party was insane. Today a combination of technnological capabilities and contractual trust make cloud computing not only appealing but almost a foregone conclusion, in terms of financial viablity. 
+- Elasticity: Rather than constantly purchasing computers, servers, data storage systems, and other resources and internally maintaining their infrastructure, an organization can contract with a cloud vendor. 
+- Simplicity: Proper cloud implementations allow a user to seamslessly use the service without frequently interacting with the cloud service provider. 
+- Scalability: In general, increasing or reducing services can be more easily, quickly, and cost-effectively accomplished than in a non-cloud environment. 
+
 ## Lesson 2 - Design requirements, including business requirements analysis, boundaries of cloud models, and design principles for protecting sensitive data.
 # 4042.4.2 Secure Cloud Infrastucture
 Validate security controls, disaster recovery plans, and continuity management plans to ensure a secure infrastructure for the protection and restoral of information resources. 
