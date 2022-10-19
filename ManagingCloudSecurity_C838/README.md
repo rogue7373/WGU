@@ -92,6 +92,62 @@ The public cloud is what we typically think of when discussing cloud providers. 
 ## Private
 A private cloud is typified by resources dedicated to a single customer, no other customers will share the underlying resources. Therefore, private clouds are not multitenant environments. 
 
+## Community 
+A community cloud features infrastructure and processing owned and operated by an affinity group; disparate pieces might be owned or controlled by individuals or distinct organizations, but they come together in some fashion to perform joint tasks and functions. 
+
+## Hybrid
+A hybrid cloud contains elements of the other models. For example, an organization might want ot retain some private clouds resources but also lease some public cloud space as well. 
+
+# Cloud Computing Roles and Responsibilities
+#### Cloud service provider(CSP), or Cloud Provider or Provider
+The vendor offering a cloud service
+#### Cloud Customer 
+The organization purchasing, leasing, or renting cloud services
+#### Cloud Broker
+A company that purchases hosting services from a cloud provider who then resells them to its own customers.
+#### Cloud Access Security Broker (CASB)
+A third-party entity offering independent identity and access management (IAM) services to CSP's and cloud customers, often as an intermediary. This can take the form of a variety of services, including single sign-on, certificate management, and cryptographic key escrow. 
+#### Regulators (MOUNT UP) 
+The entities that ensure organizations are in compliance with the regulatory framework for which they're repsonsbile. These can be government agencies, certification bodies, or parties to a contract. Regulations include the Health Information Portability and Accountability Act (HIPAA), the Graham-Leach-Bliley Act (GLBA), the Payment Card Industry Data Security Standard (PCI DSS), the International Organization for Standardization (ISO), the Sarbanes– Oxley Act (SOX), and so forth. Regulators include the Federal Trade Commission (FTC), the Securities and Exchange Commission (SEC), and auditors commissioned to review compliance with contracted or asserted standards (such as PCI DSS and ISO), among many others.
+
+# Cloud Computing Definitions
+#### Business Requirement 
+An operational driver for decision-making and input for risk management
+#### Cloud App (Cloud Application)
+The phrase used to describe a software application accessed via the Internet
+#### Cloud Architect
+Subject matter expert for cloud computing infrastructure and deployment 
+#### Cloud Backup
+Backing up data to a remote, cloud based server 
+#### Cloud Computing 
+The use of computing, storage, and network resources with the capabilities of rapid elasticity, metered service, broad network access, and pooled resources 
+#### Cloud Migration
+The process of transitioning all or part of a company's data, applications, and services from on-site premises to the cloud
+#### Cloud Portability
+The ability to move applications and associated data between one cloud provider and another or between legacy and cloud environments
+#### Cost-Benefit Analysis
+This is comparing the potential positive impact of a business decision to the potential negative impact and weighing whether the two are equivalent or if the potential positive effect outweighs the potential negative. 
+#### FIPS 140-2 
+A NIST document that describes the process for accediting and cryptosystems for use by the US Federal Government
+#### Managed Service Provider 
+AN IT Service where the customer dictates both the technology and operational procedures, and an external party executes administration and operational support according to a contract
+#### Multitenant
+Multiple customers using the same public cloud 
+#### NIST 800-53
+A guidance document with the primary goal of ensuring that appropriate security requirements and controls are applied to all US federal government information in information management systems
+#### Trusted Cloud Initiative (TCI) Reference Model
+The TCI reference model is a guide for cloud providers, allowing them to create a holistic architecture that cloud customers can purchase and use with comfort and confidence 
+#### Vendor Lock-In
+Vendor lock-in occurs in a situation where a customer may be unable to leave, migrate, or transfer to an alternate provider due ot technical or nontechnical constraints
+#### Vendor Lock-Out
+Vendor lock-out occurs when a customer is unable to recover or access their own data due to the cloud provider going into bankruptcy or otherwise leaving the market
+
+#### CIA TRIAD
+- Confidentiality
+- Integrity
+- Availability
+
+
 ## Lesson 2 - Design requirements, including business requirements analysis, boundaries of cloud models, and design principles for protecting sensitive data.
 # 4042.4.2 Secure Cloud Infrastucture
 Validate security controls, disaster recovery plans, and continuity management plans to ensure a secure infrastructure for the protection and restoral of information resources. 
