@@ -73,6 +73,7 @@ Cloud service are often offered in terms of three general models, based on what 
 - SaaS: Software as a Service 
 - PaaS: Platform as a Service
 - IaaS: Infrastructure as a Service
+- CaaS: Compliance as as Service
 
 ## Infrastructure as a Service (IaaS)
 The most basic of cloud service offerings, IaaS allows the customer to install all software, including operating systems, on hardware housed and connected by the cloud vendor. 
@@ -199,8 +200,32 @@ With all three models of cloud hosting, IaaS, PaaS, and SaaS, the customer is gi
 - All unnecessary services are disabled 
 - Physical access is severely limited and controlled
 - Systems are patched, maintained, and updated according to vendor guidance and industry best practices
+#### Encryption 
+#### Layered Defense 
+
 # 4042.4.3 Manage Cloud Operations
 Secure and manage physical and virtual infrastructures for legal and secure cloud operations.
+### Data Categorization
+- Regulatory Compliance: Governance, by different regulatory bodies. The organization may wnat to create categories based on which regulations aply to a specific dataset. 
+- Business Function: The organization may want to have specific catgories for different uses of data. 
+- Functional Unit: Each department or office might have its own category and keep all data it controls within its own category. 
+- By Project: Some organizations might define datasets by the projects they are associated with as a means of creating discrete, compartmentalized projects. 
+### Data Classification
+- Sensitivity: This is the classification model used by the US military. Data is assigned a classification according to the sensitivity of the data, based on the negative impact an unauthorized disclosure would cause. 
+- Jurisdiction: The geophysical location of the source or storage point of the data might have sgnificant bearing on how that data is treated and handled. 
+### Data Mapping 
+Data between organizations must be normalized and translated so that is conforms in a way meaningful to both parties. 
+### Data Labeling
+When the data owner creates, categorizes, and classifies the data, the data also needs to be labeled. The lable should indicate who the data owner is, usually in terms of the office or role instead of an individual name or identity. The labl should take whatever form is necessary for it to be enduring, understandable, and consistent. 
+- Date of creation
+- Date of scheduled destruction
+- COnfidentiality level
+- Handling directions
+- Dissemination/distribution instructions
+- Access limitations
+- Source
+- Jurisdiction
+- Applicable regulations
 # 4042.4.4 Cloud Software Assessment 
 Security in cloud software to improve security and define secure procedures.
 # 4042.4.5 Critical Cloud Requirements
