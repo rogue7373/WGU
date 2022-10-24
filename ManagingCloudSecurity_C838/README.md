@@ -151,6 +151,54 @@ Vendor lock-out occurs when a customer is unable to recover or access their own 
 ## Lesson 2 - Design requirements, including business requirements analysis, boundaries of cloud models, and design principles for protecting sensitive data.
 # 4042.4.2 Secure Cloud Infrastucture
 Validate security controls, disaster recovery plans, and continuity management plans to ensure a secure infrastructure for the protection and restoral of information resources. 
+## Business Requirements Analysis
+- An inventory of all assets 
+- A valuation of each asset
+- A determination of criticals paths, processes, and assets 
+- A clear understanding of risk appetite 
+### Inventory of Assets 
+In order to protect our assets, we must know what they are. Everything owned or controlled by the company is considered an asset. Assets take many different forms:
+- Tangible items likes IT hardware, inventory, buildings, and vehicles
+- Intangible items like intellectual property, public perception, and good will with business partners and vendors. 
+- Personnel can be considered an asset as well, this is because of the skills, training, and prodicutivity they provide to the organization
+In order to protect all of our assets, we have to know what they are and, to a lesser extent, where they are ad what they do. If we lose track of something under out control, it becomes impossible to secure that thing. 
+- This makes the first step in creating a good security program. Know your assets, keep the inventory of them updated, and when adding or depcricating them, update update update the inventory. 
+### Valuation of Assets 
+While building your inventory of assets you want to not only assign a number, location, and type, but you want to associate a value to those assets. 
+- This is known as a business impact analysis (BIA)
+Cost can be assigned in different manners, by using the insured value, the replacement cost, or some other method of making that valuation. Usually we allow the data owners to determine the value of the information under their control
+### Determination of Criticality 
+Once the innventory and valuationn is complete, the BIA effort continues with a determination made by senior management regarding criticality. Criticality denotes those aspects of the organization without which the organization count not operate or exist. These could include tangible assets, intangible assets, specific business process, data pathways, or even essential personnel.
+### Examples of Criticality 
+- Tangible Assets: The organization is a rental car company, cars are critical to its operations. If it has no cars to rent to customers, it can't do business. 
+- Intangible Assets: The organization is a music productionn firm; music is the intellectual property of the company. If the ownership of the music is compromised the company has nothing of value and will not survive. 
+- Processes: The organization is a fast-food restaurat noted fro its speed. The process of taking orders, preparing and delivering food, and taking payment is critical to its operations. If the restaurant cannot complete the process for some reason,  the restaurat canot function. 
+- Data Paths: The organization is an international shipping line. Matching orders to cargo carriers is critical to its operations. If the company canot complete its logistical coordination, assigning cargo requests to carriers with suffiecient capacity, it cannot provide its services and will not survive. 
+- Personnel: The organization is a surgical provider, the surgeon is critical to the existence of the company. If the surgeon cannot operate, there is no company. 
+## Quantitative and Qualitative Risk Assessments 
+Two similar yet different approaches for assessing risk are qualitative and quantitative risk assessments. Both methods typically employ a set of methods, principles, or rules for assessing risk. Qualitative risk assessments use nonnumerical categories that are relative in nature, such as high, medium, and low. Quantitative assessments use specific numerical values such as 1, 2, and 3. 
+## Risk Appetite
+Risk appetite is the level, amount, or type of risk that the organization finds acceptable. This varies wildly from organization to organization, based on unnumberable factors both internal and external, and can change over time. 
+- Risk is the likelihood a impact will be realized
+- Risk can be reduced but never eeliminated
+- Organizations accept a level of risk that allows operations to continue in a successful manner
+- It is legal and defensible to accept risks higher than the norm, or greater than your competitors, except risks to health and human safety; these risks must be addressed to the industry standard or regulatory scheme to which your organization adheres. 
+- Avoidance: The isnt' really a method for handling risk, it means leaving a business opportunity because the risk is simply to high and cannot be compensated for with adequate controls. 
+- Acceptance: The opposite of avoidance, the risk falls within the organizations risk appetite, so the organization continues operations without any additional efforts regarding the risk.   
+- Transference: The organization pays someone else to accept the risk, at a lower cost than the potential impact that would result from the risk being realized. This is usually in the form of insurance. Theis type of risk is often associated with things that have a low probablility of occurring but a high impact should they occur.  
+- Mitigation: The organization takes steps to decrease the likelihood or the impact of the risk. This can take the form of controls/countermeasures and is usually where security practitioners are involved. 
+## General Considerations 
+With all three models of cloud hosting, IaaS, PaaS, and SaaS, the customer is giving up essential forms of controls: physical access to the devices on which the data resides. This is a massive and serious increase to risk and loss of assurance. 
+## Design Priniciples for Protecting Sensitive Data 
+#### Hardening Devices 
+- All guest accounts are removed 
+- All unsused ports are closed
+- No default passwords remain
+- Strong password policies are in effect
+- Any admin accounts are significantly secured and logged
+- All unnecessary services are disabled 
+- Physical access is severely limited and controlled
+- Systems are patched, maintained, and updated according to vendor guidance and industry best practices
 # 4042.4.3 Manage Cloud Operations
 Secure and manage physical and virtual infrastructures for legal and secure cloud operations.
 # 4042.4.4 Cloud Software Assessment 

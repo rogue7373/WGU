@@ -61,7 +61,7 @@ On September 12, 2003, Trotter was fired from his job at the Midland Division of
 
 A law enforcement investigation discovered the intrusions into the Salvation Army's network originated from a DSL account in St. Louis, Missouri, registered to Malynda Ramsey, Trotter's girlfriend and co-habitant.   The email address attached to the account included Trotter's first name, last initial, and birth year.   The instant federal charge followed.
 
- After unsuccessfully seeking dismissal of his indictment, Trotter pleaded guilty to one count of computer sabotage, a violation of 18 U.S.C. § 1030(a)(5)(A)(i).   Trotter reserved the right to raise a constitutional challenge on appeal.2
+After unsuccessfully seeking dismissal of his indictment, Trotter pleaded guilty to one count of computer sabotage, a violation of 18 U.S.C. § 1030(a)(5)(A)(i).   Trotter reserved the right to raise a constitutional challenge on appeal.2
 
 As part of his plea agreement, Trotter admitted he sent computer commands from his residence in St. Louis to the computer network of his former employer and intentionally caused damage to the network without authorization.   He further agreed that:
 
